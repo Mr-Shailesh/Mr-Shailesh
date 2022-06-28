@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shailesh
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS, NodeJS, MongoDB, Wordpress
 - 💞️ I’m looking to collaborate on various React Project
 
 <!---
